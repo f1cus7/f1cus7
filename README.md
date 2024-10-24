@@ -22,10 +22,11 @@ I'm a beginning **frontend developer** with experience in building dynamic and i
 ---
 
 ## ✨ GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f1cus7&show_icons=true&theme=radical)&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f1cus7&show_icons=true&theme=radical" alt="GitHub Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1cus7&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="200">
+</div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1cus7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📫 How to reach me:
