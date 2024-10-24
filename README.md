@@ -33,7 +33,8 @@ I'm a beginning **frontend developer** with experience in building dynamic and i
 - **Email**: f1cus7@mail.ru
 - **GitHub**: [GitHub/f1cus7](https://github.com/f1cus7)
 
-
+---
+## 📃 My certificates:
 <div>
   <img src="https://github.com/f1cus7/certificate/blob/main/certificate.jpg" title="certificate" **alt="certificate" width="50%" height="auto" style="border-radius: 15px;" />&nbsp;
 </div>
