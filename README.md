@@ -31,3 +31,6 @@ I'm a beginning **frontend developer** with experience in building dynamic and i
 ## 📫 How to reach me:
 - **Email**: f1cus7@mail.ru
 - **GitHub**: [GitHub/f1cus7](https://github.com/f1cus7)
+
+
+- [Certificate in Web Development](https://github.com/f1cus7/your-repo-name/blob/main/certificate.pdf)
