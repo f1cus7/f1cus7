@@ -14,7 +14,7 @@
 I'm a beginning **frontend developer** with experience in building dynamic and interactive web applications.
 
 ## 🛠 My Tech Stack:
-- **Frontend**: HTML, CSS, SASS, JavaScript, Vue.js
+- **Frontend**: HTML, CSS, SASS, JavaScript, React
 - **Backend**: Node.js
 - **Version Control**: Git
 - **Tools**: VS Code, npm
