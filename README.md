@@ -20,9 +20,6 @@ I'm a beginning **frontend developer** with experience in building dynamic and i
 - **Version Control**: Git
 - **Tools**: VS Code, npm
 
----
-### Also progressing through a roadmap where I mark off what I’m fully confident in.
-## https://roadmap.sh/frontend?s=66e33f304ffb3bc3b063ee34
 
 ## ✨ GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f1cus7&show_icons=true&theme=radical)&nbsp;
