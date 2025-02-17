@@ -34,6 +34,10 @@ I'm a beginning **frontend developer** with experience in building dynamic and i
 - **GitHub**: [GitHub/f1cus7](https://github.com/f1cus7)
 
 ---
+
+## 📫 My game on Yandex games:
+- **link**: [f1cus](https://yandex.ru/games/search?query=%D1%85%D0%B0%D0%B9%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%BF#app=387434)
+---
 ## 📃 My certificates:
 <div>
   <img src="https://github.com/f1cus7/certificate/blob/main/certificate.jpg" title="certificate" **alt="certificate" width="50%" height="auto" style="border-radius: 15px;" />&nbsp;
