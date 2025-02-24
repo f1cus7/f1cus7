@@ -7,6 +7,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="70" height="70"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="70" height="70"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" **alt="tailWind" width="70" height="70"/>&nbsp;
 </div>
 </div>
 
@@ -15,7 +16,7 @@
 I'm a beginning **frontend developer** with experience in building dynamic and interactive web applications.
 
 ## 🛠 My Tech Stack:
-- **Frontend**: HTML, CSS, SASS, JavaScript, Bootstrap
+- **Frontend**: HTML, CSS, SASS, JavaScript, Bootstrap, TailWind
 - **Backend**: Node.js
 - **Version Control**: Git
 - **Tools**: VS Code, npm
