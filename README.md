@@ -37,7 +37,7 @@ I'm a beginning **frontend developer** with experience in building dynamic and i
 ---
 
 ## 📫 My game on Yandex games:
-- **link**: [f1cus](https://yandex.ru/games/search?query=%D1%85%D0%B0%D0%B9%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%BF#app=387434)
+- **link**: [f1cus](https://yandex.ru/games/developer/87121)
 ---
 ## 📃 My certificates:
 <div>
