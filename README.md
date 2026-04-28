@@ -13,7 +13,7 @@
 
 # Hi there, I'm f1cus7 👋
 
-I'm a beginning **frontend developer** with experience in building dynamic and interactive web applications.
+I'm currently working as a **layout designer** and not really using Js 😓.
 
 ## 🛠 My Tech Stack:
 - **Frontend**: HTML, CSS, SASS, JavaScript, Bootstrap, TailWind
