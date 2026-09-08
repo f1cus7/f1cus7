@@ -22,11 +22,6 @@ I'm currently working as a **layout designer** and not really using Js 😓.
 - **Version Control**: Git
 - **Tools**: VS Code, npm
 
-
-## ✨ GitHub Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1cus7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 📫 How to reach me:
