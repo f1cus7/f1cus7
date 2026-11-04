@@ -5,22 +5,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="70" height="70"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="70" height="70"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" **alt="tailWind" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain-wordmark.svg" title="Drupal" **alt="Drupal" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Drupal" **alt="Drupal" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/postgresql-original.svg" title="Drupal" **alt="Drupal" width="70" height="70"/>&nbsp;
 </div>
 </div>
 
 # Hi there, I'm f1cus7 👋
 
-I'm currently working as a **layout designer** and not really using Js 😓.
 
 ## 🛠 My Tech Stack:
 - **Frontend**: HTML, CSS, SASS, JavaScript, Bootstrap, TailWind
 - **Backend**: Node.js
 - **Version Control**: Git
 - **Tools**: VS Code, npm
+- **CMS**: Drupal, wordpress
+- **DBMS**: PostgreSQL
 
 ---
 
